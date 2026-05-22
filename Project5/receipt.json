@@ -1,0 +1,16 @@
+{
+    "discount_amount": 28.75,
+    "discount_percentage": 50.0,
+    "items": [
+        {
+            "name": "Bread",
+            "price": 25.5
+        },
+        {
+            "name": "Milk",
+            "price": 32.0
+        }
+    ],
+    "subtotal": 57.5,
+    "total_to_pay": 28.75
+}

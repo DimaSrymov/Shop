@@ -1,0 +1,8 @@
+---------- SHOP RECEIPT ----------
+1. Bread : 25.5 UAH
+2. Milk : 32 UAH
+----------------------------------
+Subtotal: 57.5 UAH
+Discount (50%): -28.75 UAH
+TOTAL TO PAY: 28.75 UAH
+Thank you for your purchase!
